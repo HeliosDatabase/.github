@@ -99,7 +99,7 @@ The SDK layer is where application developers should start when they want to con
 
 ## Licensing
 
-Licensing varies by repository. Check the `LICENSE` file in each repository rather than assuming a single licence across the organization.
+Every public repository in this organization is licensed under Apache-2.0. Each repository carries the full licence text in its own `LICENSE` file.
 
 ## Public Documentation
 
